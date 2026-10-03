@@ -1,6 +1,6 @@
 # Klasifikasi Balok dengan Transfer Learning
 
-Perbandingan tiga model pretrained ImageNet — **ResNet-18**, **ResNet-50**, dan **MobileNetV3-Small** — untuk mengklasifikasi 5 kelas objek balok dari citra kamera. Proyek ini dibuat untuk praktikum pemilihan model pretrained pada robot.
+Perbandingan tiga model pretrained ImageNet — **ResNet-18**, **ResNet-50**, dan **MobileNetV3-Small** — untuk mengklasifikasi 5 kelas objek balok dari citra kamera. Proyek ini dibuat untuk praktikum pemilihan model pretrained pada robot ARM.
 
 ## Ringkasan Hasil
 
